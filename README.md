@@ -1,17 +1,15 @@
-# Verilog Basics
+# RTL Design Practice – Sujithra S
 
-This repository contains beginner to intermediate Verilog RTL designs with testbenches.
+This repository contains my RTL and Verilog practice projects.
 
 ## Topics Covered
-- Basic logic gates  
-- Combinational circuits  
-- Sequential circuits  
-- FSM designs  
-- Mini RTL projects (coming soon)
-
-## Tools Used
-- EDA Playground  
-- GTKWave  
+- Basic logic gates (AND, OR, NOT)
+- Combinational circuits (upcoming)
+- Sequential circuits (upcoming)
+- FPGA-based projects (upcoming)
 
 ## Goal
-To build strong RTL fundamentals for VLSI / FPGA roles.
+Preparing for roles:
+- RTL Design Engineer
+- VLSI Engineer
+- Embedded Hardware Engineer
